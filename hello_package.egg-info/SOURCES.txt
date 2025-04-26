@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+hello_package/__init__.py
+hello_package/module1.py
+hello_package/module2.py
+hello_package.egg-info/PKG-INFO
+hello_package.egg-info/SOURCES.txt
+hello_package.egg-info/dependency_links.txt
+hello_package.egg-info/top_level.txt
+tests/test_module1.py
