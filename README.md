@@ -3,4 +3,4 @@ A simple Python package example.
 
 ## Installation
 ```bash
-pip install hello_package
+pip install my_package2
